@@ -15,7 +15,7 @@
 - Project-1.sql
 	- To record all sql ran
 - Insights.docx
-	- To be used as a faux presentation to a stakeholder of findings
+	- To be used as a faux presentation to a stakeholder, of insights
 
 ## Tools Used
 - MySQL server
