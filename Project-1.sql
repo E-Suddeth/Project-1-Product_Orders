@@ -3,7 +3,7 @@
 */
 
 sudo mysql
--- first time launching mysql server
+-- first time login mysql server
 
 create user 'suddeth'@'localhost' identified by 'asdf';
 -- creates the user suddeth and gives the password asdf
@@ -22,3 +22,4 @@ mysql -u suddeth -p
 
 show databases;
 -- shows databases that exist on the server
+

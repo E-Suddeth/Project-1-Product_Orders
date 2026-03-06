@@ -1,6 +1,7 @@
 ## Overview/TODO
 ###### This is my first project demonstrating:
-- Creating a database in MySQL
+- ~~Creating a database in MySQL~~
+	- I will be loading one, creating a DB is as easy as a table
 - Loading a sample database
 	- Database from MySQL Tutorial
 - Creating a regions table by hand to demonstrate process
@@ -19,8 +20,8 @@
 
 ## Tools Used
 - MySQL server (localhost)
-- VS-Code
-	- For text editing and as a terminal emulator
-- [MySQL-Tutorial-SampleDB](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
 - MySQL Workbench for creating ER-Diagram
-- Github to post project, with intention to use as a portfolio
+- VS-Code
+	- For text editing and it's terminal emulator
+- [MySQL-Tutorial-SampleDB](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
+- Github to post project, with the intention to use for a portfolio
