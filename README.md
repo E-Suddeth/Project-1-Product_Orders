@@ -7,6 +7,7 @@
 	- Also to use in a join, for analysis by region
 - Looking over tables and doing explanations of what such means
 - Creating ER-Diagram (hopefully; through DBeaver)
+- Finding great insights to be acted on, and presenting in a docx
 
 ## Files
 - readme.md
