@@ -6,7 +6,7 @@
 - Creating a regions table by hand to demonstrate process
 	- Also to use in a join, for analysis by region
 - Looking over tables and doing explanations of what such means
-- Creating ER-Diagram (hopefully; through DBeaver)
+- Creating ER-Diagram (hopefully, using MySQL Workbench)
 - Finding great insights to be acted on, and presenting in a docx
 
 ## Files
@@ -18,9 +18,9 @@
 	- To be used as a faux presentation to a stakeholder, of insights
 
 ## Tools Used
-- MySQL server
+- MySQL server (localhost)
 - VS-Code
 	- For text editing and as a terminal emulator
 - [MySQL-Tutorial-SampleDB](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
-- DBeaver for creating ER-Diagram
+- MySQL Workbench for creating ER-Diagram
 - Github to post project, with intention to use as a portfolio
